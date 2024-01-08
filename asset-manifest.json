@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Met-Gesture/static/css/main.4ccf7aeb.css",
+    "main.js": "/Met-Gesture/static/js/main.876a36c5.js",
+    "static/media/victory.png": "/Met-Gesture/static/media/victory.8710fbb201e8f3ee6274.png",
+    "static/media/thumbs_up.png": "/Met-Gesture/static/media/thumbs_up.e3bf974dcf17c12c8cfa.png",
+    "index.html": "/Met-Gesture/index.html",
+    "main.4ccf7aeb.css.map": "/Met-Gesture/static/css/main.4ccf7aeb.css.map",
+    "main.876a36c5.js.map": "/Met-Gesture/static/js/main.876a36c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ccf7aeb.css",
+    "static/js/main.876a36c5.js"
+  ]
+}
